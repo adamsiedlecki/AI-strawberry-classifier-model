@@ -7,4 +7,4 @@ Just some info that may help in the future
 5. pip install -q pyyaml h5py  # Required to save models in HDF5 format
 6. Install CUDA Toolkit 10.1 from Nvidia - the newest doesn't work
 
-As far this program has about 65% accuracy  on current dataset. I guess that is not bad, because I learning TF last night.
+As far this program has about 65% accuracy  on current dataset. I guess that is not bad, because I started learning TF last night.
